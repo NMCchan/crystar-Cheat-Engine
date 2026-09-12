@@ -1,0 +1,9 @@
+# Cheat Engine backup/temp files
+*.bak
+*.tmp
+*.old
+*.log
+
+# Windows metadata
+Thumbs.db
+desktop.ini
