@@ -1,0 +1,3 @@
+*.CT text eol=crlf
+*.ct text eol=crlf
+*.md text eol=lf
